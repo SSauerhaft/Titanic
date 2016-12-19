@@ -1,2 +1,2 @@
 # Titanic
-First attempt at Kaggle Titanic Challenge
+Kaggle Titanic Challenge
